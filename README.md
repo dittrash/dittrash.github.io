@@ -1,4 +1,3 @@
 # dittrash.github.io
-Repo for dittrash.github.io
-built with bootstrap 4
+built with bootstrap 4<br/>
 i'm bad at math, thanks
