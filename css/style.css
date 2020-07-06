@@ -46,7 +46,7 @@ html, body {
   padding-top: 65px; 
 }
 
-@media (min-width: 1300px){
+@media (min-width: 1000px){
   .navbar-expand-custom {
       flex-direction: row;
       flex-wrap: nowrap;
