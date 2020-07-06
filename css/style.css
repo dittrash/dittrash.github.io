@@ -43,6 +43,7 @@
 
 html, body {
   height: 100%;
+  padding-top: 65px; 
 }
 
 .full-height {
